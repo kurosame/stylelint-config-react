@@ -1,6 +1,6 @@
 {
   "name": "@kurosame/stylelint-config-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "StyleLint config for React",
   "main": "index.js",
   "repository": {
